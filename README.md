@@ -25,7 +25,3 @@ This is a simple and responsive website for an errands service platform that con
 - CSS3
 - JavaScript
 
----
-
-## 📁 Project Structure
-
